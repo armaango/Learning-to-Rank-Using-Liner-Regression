@@ -1,5 +1,5 @@
-UbitName = 'armaango';
-personNumber = '50170093';
+UbitName = '########';
+personNumber = '######';
 
 load project1_data.mat out_mat;
 output_val = out_mat(:,1);
